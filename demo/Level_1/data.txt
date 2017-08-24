@@ -1,0 +1,9 @@
+Project:
+h5 Game - 坎娜与托尔:"https://github.com/codeRimoe/h5_game_kanna"
+[NOTE BLOG]:"http://blog.rimoe.ml/2017/06/09/post01/"
+[TRY NOW]:"http://rimoe.ml/kanna"
+
+Project:
+OOP Homework - Wolf and Sheep:"https://github.com/codeRimoe/Wolf_and_Sheep"
+[NOTE BLOG]:"http://blog.rimoe.ml/2017/07/27/post01/"
+
