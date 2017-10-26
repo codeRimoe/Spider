@@ -4,6 +4,8 @@
 
 These spider demo are used as example sources in my blog.
 
+Code in PEP-8 Style.
+
 To get more infomation, plese move to my blog:
 
 [凝萌小记 - Rimoe's](http://blog.rimoe.ml)
@@ -21,6 +23,8 @@ To get more infomation, plese move to my blog:
 ## 简介
 
 此处的源文件用作博文里的样例。
+
+代码依照PEP-8规范编写。
 
 如果需要更加详细的说明，请参考我的博客：
 
