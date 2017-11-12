@@ -16,6 +16,8 @@ To get more infomation, plese move to my blog:
 
 [Note of Spider ABC [II] - Save The Bachelor](http://blog.rimoe.ml/2017/09/04/post01/)
 
+[Note of Spider ABC [II] - Selenium](http://blog.rimoe.ml/2017/11/12/post01/)
+
 ---
 
 # 爬虫
@@ -36,6 +38,7 @@ To get more infomation, plese move to my blog:
 
 [爬虫入门笔记（二） - 单身问题的社会学关怀](http://blog.rimoe.ml/2017/09/04/post01/)
 
+[爬虫入门笔记（三） - 硒？Selenium！某自动控制模块](http://blog.rimoe.ml/2017/09/04/post01/)
 ---
 
 # License
