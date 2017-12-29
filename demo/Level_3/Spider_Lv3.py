@@ -2,6 +2,7 @@
 
 # Spider Lv3
 # Author: Yue H.W. Luo
+# Mail: yue.rimoe@gmail.com
 # License : http://www.apache.org/licenses/LICENSE-2.0
 # More detial: http://blog.rimoe.ml/2017/11/12/post01/
 
