@@ -24,21 +24,23 @@ To get more infomation, plese move to my blog:
 
 ## 简介
 
-此处的源文件用作博文里的样例。
+此处的源文件用作博文里的样例并提供其他爬虫实例。
 
 代码依照PEP-8规范编写。
 
 如果需要更加详细的说明，请参考我的博客：
 
-[凝萌小记 - Rimoe's](http://blog.rimoe.ml)
+[凝萌小记 - Rimoe's](http://blog.rimoe.xyz)
 
 ## 目录
 
-[爬虫入门笔记（一） - 从最简单的爬虫写起](http://blog.rimoe.ml/2017/08/24/post01/)
+[数据获取讨论会](https://github.com/codeRimoe/Spider/tree/master/get_data_speech)
 
-[爬虫入门笔记（二） - 单身问题的社会学关怀](http://blog.rimoe.ml/2017/09/04/post01/)
+[爬虫入门笔记（一） - 从最简单的爬虫写起](http://blog.rimoe.xyz/2017/08/24/post01/)
 
-[爬虫入门笔记（三） - 硒？Selenium！某自动控制模块](http://blog.rimoe.ml/2017/09/04/post01/)
+[爬虫入门笔记（二） - 单身问题的社会学关怀](http://blog.rimoe.xyz/2017/09/04/post01/)
+
+[爬虫入门笔记（三） - 硒？Selenium！某自动控制模块](http://blog.rimoe.xyz/2017/09/04/post01/)
 ---
 
 # License
