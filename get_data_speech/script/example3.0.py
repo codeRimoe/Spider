@@ -139,7 +139,6 @@ def mergejson(strs):
     mer = '{"type":"FeatureCollection","features": [%s]}' % ','.join(strs)
     return mer
 
-
 import codecs
 with codecs.open(r'C:/Users/Yue/Downloads/gz_restaurantnew.csv', 'r', 'gbk') as rf:
     lines = rf.readlines()

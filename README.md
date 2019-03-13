@@ -18,6 +18,8 @@ To get more infomation, plese move to my blog:
 
 [Note of Spider ABC [III] - Selenium](http://blog.rimoe.ml/2017/11/12/post01/)
 
+[Note of Spider ABC [IV] - Roaming city](http://blog.rimoe.ml/2019/03/14/post01/)
+
 [get_data_speech: intro. to spider](https://github.com/codeRimoe/Spider/blob/master/get_data_speech/get_data.pptx)
 
 ---
@@ -43,6 +45,8 @@ To get more infomation, plese move to my blog:
 [爬虫入门笔记（二） - 单身问题的社会学关怀](http://blog.rimoe.xyz/2017/09/04/post01/)
 
 [爬虫入门笔记（三） - 硒？Selenium！某自动控制模块](http://blog.rimoe.xyz/2017/09/04/post01/)
+
+[爬虫入门笔记（四） - 漫步城市](http://blog.rimoe.ml/2019/03/14/post01/)
 
 [get_data_speech: 爬虫简介](https://github.com/codeRimoe/Spider/blob/master/get_data_speech/get_data.pptx)
 ---
