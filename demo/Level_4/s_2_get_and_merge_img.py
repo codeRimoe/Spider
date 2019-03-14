@@ -1,9 +1,19 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 21:24:23 2019
 
-@author: Yue
+# Spider Lv4
+# Author: Yue H.W. Luo
+# Mail: yue.rimoe@gmail.com
+# License : http://www.apache.org/licenses/LICENSE-2.0
+# More detial: https://blog.rimoe.xyz/2019/03/14/post01/
+
 """
+## NOTE
+   Created on Wed Mar 13 21:24:23 2019
+   This programme is used to get data from Tencent street view.
+   Get the image of a street view point.
+
+"""
+
 import os
 import cv2
 import json

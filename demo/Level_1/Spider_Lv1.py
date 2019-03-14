@@ -4,7 +4,7 @@
 # Author: Yue H.W. Luo
 # Mail: yue.rimoe@gmail.com
 # License : http://www.apache.org/licenses/LICENSE-2.0
-# More detial: http://blog.rimoe.ml/2017/08/24/post01/
+# More detial: https://blog.rimoe.xyz/2017/08/24/post01/
 
 import urllib2
 import re

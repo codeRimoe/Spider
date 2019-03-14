@@ -1,8 +1,17 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 11 19:07:03 2019
 
-@author: Yue
+# Spider Lv4
+# Author: Yue H.W. Luo
+# Mail: yue.rimoe@gmail.com
+# License : http://www.apache.org/licenses/LICENSE-2.0
+# More detial: https://blog.rimoe.xyz/2019/03/14/post01/
+
+"""
+## NOTE
+   Created on Mon Mar 11 19:07:03 2019
+   This programme is used to get data from Tencent street view.
+   Get the svid and location of a street view point.
+
 """
 
 import os

@@ -4,7 +4,7 @@
 # coding: utf-8
 # PEP-8 standard
 # Edit by Yue Luo: yue.rimoe@gmail.com
-# http://rimoe.xyz
+# https://rimoe.xyz
 # reference： https://blog.csdn.net/WenWu_Both/article/details/70187605
 
 # %%
